@@ -1,0 +1,17 @@
+amqp==2.3.2
+billiard==3.5.0.5
+carto==1.4.0
+celery==4.2.0
+certifi==2018.11.29
+chardet==3.0.4
+future==0.17.1
+idna==2.7
+kombu==4.2.1
+pyrestcli==0.6.7
+python-dateutil==2.7.5
+pytz==2018.7
+redis==3.0.1
+requests==2.20.1
+six==1.11.0
+urllib3==1.24.1
+vine==1.1.4
